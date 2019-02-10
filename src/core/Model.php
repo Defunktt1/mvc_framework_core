@@ -1,7 +1,6 @@
 <?php
 
-namespace simple_mvc_framework_core\core;
-
+namespace simple_mvc_framework\src\core;
 use PDO;
 
 class Model

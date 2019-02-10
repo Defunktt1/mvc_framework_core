@@ -1,6 +1,9 @@
 <?php
 
-namespace simple_mvc_framework_core\core;
+namespace simple_mvc_framework_core\src;
+
+use simple_mvc_framework\src\core\Controller;
+use simple_mvc_framework\src\core\Request;
 
 class Route
 {
