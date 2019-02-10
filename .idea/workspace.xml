@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="668af2ee-0930-4833-b423-a0fd09323128" name="Default Changelist" comment="trying to fix autoload" />
+    <list default="true" id="668af2ee-0930-4833-b423-a0fd09323128" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/core/Route.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="48" />
+            <state relative-caret-position="798">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="e#49#94#0#PHP" expanded="true" />
               </folding>
@@ -208,7 +208,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549811946952</updated>
       <workItem from="1549811948420" duration="7760000" />
-      <workItem from="1549824306209" duration="1673000" />
+      <workItem from="1549824306209" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="added minimum stability">
       <created>1549816557310</created>
@@ -266,11 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549825293792</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="trying to fix autoload">
+      <created>1549833469077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549833469077</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9433000" />
+    <option name="totallyTimeSpent" value="9726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
@@ -395,8 +402,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/Route.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="48" />
+        <state relative-caret-position="798">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="e#49#94#0#PHP" expanded="true" />
           </folding>
