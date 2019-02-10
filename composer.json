@@ -4,6 +4,7 @@
   "type": "library",
   "minimum-stability": "dev",
   "license": "MIT",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Vladyslav",
