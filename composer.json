@@ -1,0 +1,17 @@
+{
+    "name": "defunktt1/simple_mvc_framework_core",
+    "description": "Framework for homework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vladyslav",
+            "email": "tempvurado3@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "classmap": []
+    }
+}
