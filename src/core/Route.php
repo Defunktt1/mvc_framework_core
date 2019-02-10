@@ -1,6 +1,6 @@
 <?php
 
-namespace simple_mvc_framework_core\src;
+namespace simple_mvc_framework\src;
 
 use simple_mvc_framework\src\core\Controller;
 use simple_mvc_framework\src\core\Request;
