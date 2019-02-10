@@ -23,7 +23,7 @@ class Route
 
             $request = new Request();
 
-            include $_SERVER['DOCUMENT_ROOT'] . '/controllers/' . $controllerFile;
+            include $_SERVER['DOCUMENT_ROOT'] . '/app/controllers/' . $controllerFile;
             $controller = new $controllerName($request);
             $controller->$actionName();
             exit;

@@ -7,9 +7,9 @@ class View
     function show($contextView, $masterView = null, $data = null)
     {
         if ($masterView == null) {
-            include $_SERVER['DOCUMENT_ROOT'] . '/views/' . $contextView;
+            include $_SERVER['DOCUMENT_ROOT'] . '/resources/views/' . $contextView;
         } else {
-            include $_SERVER['DOCUMENT_ROOT'] . '/views/' . $masterView;
+            include $_SERVER['DOCUMENT_ROOT'] . '/resources/views/' . $masterView;
         }
     }
 }
