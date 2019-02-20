@@ -1,0 +1,28 @@
+{
+    "name": "vladyslav/core",
+    "license": "MIT",
+    "homepage": "https://laravel.com",
+    "authors": [
+        {
+            "name": "Vladyslav Ovcharenko",
+            "email": "ayanami142@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Illuminate\\Core\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "5.7-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
