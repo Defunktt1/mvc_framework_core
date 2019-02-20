@@ -13,8 +13,6 @@
   "replace": {
     "vladyslav/core": "self.version"
   },
-  "require-dev": {
-  },
   "autoload": {
     "psr-4": {
       "Illuminate\\": "src/Illuminate/"
@@ -22,7 +20,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "5.7-dev"
+      "dev-master": "1.0.2"
     }
   },
   "config": {
