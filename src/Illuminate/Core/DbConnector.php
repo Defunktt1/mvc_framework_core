@@ -1,6 +1,6 @@
 <?php
 
-namespace simple_mvc_framework\src\core;
+namespace simple_mvc_framework\src\Illuminate\Core;
 
 class DbConnector
 {

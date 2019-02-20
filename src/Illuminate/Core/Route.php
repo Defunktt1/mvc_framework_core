@@ -1,6 +1,6 @@
 <?php
 
-namespace simple_mvc_framework\src\core;
+namespace simple_mvc_framework\src\Illuminate\Core;
 
 class Route
 {
@@ -23,8 +23,6 @@ class Route
 
             $request = new Request();
 
-            echo $_SERVER['DOCUMENT_ROOT'] . '<br>';
-            echo $_SERVER['DOCUMENT_ROOT'] . '/app/controllers/' . $controllerFile . '<br>';
             include $_SERVER['DOCUMENT_ROOT'] . '/app/controllers/' . $controllerFile;
             $controller = new $controllerName($request);
             $controller->$actionName();
